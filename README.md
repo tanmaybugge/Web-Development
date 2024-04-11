@@ -9,35 +9,36 @@ Course name - The Complete 2024 Web Development Bootcamp by Dr.Angela Yu
 https://www.udemy.com/share/101qYw3@McRK4QC2OeCKhn4uwqZVH_BKJndW3V9LNAu-NciW6PtISruCVTtxKSle7oA0DXHCMg==/
 
 <h3>Contents of the course :</h3>
-
-Front-End Web Development
-HTML 5
-CSS 3
-Flexbox
-Grid
-Bootstrap 5
-Javascript ES6
-DOM Manipulation
-jQuery
-Bash Command Line
-Git, GitHub and Version Control
-Backend Web Development
-Node.js
-NPM
-Express.js
-EJS
-REST
-APIs
-Databases
-SQL
-PostgreSQL
-Authentication
-Firebase
-React.js
-React Hooks
-Web Design
-Deployment with GitHub Pages
-Web3 Development on the Internet Computer
-Blockchain technology
-Token contract development
-NFT minting, buying and selling logic
+<ul>
+<li>Front-End Web Development</li>
+<li>HTML 5</li>
+<li>CSS 3</li>
+<li>Flexbox</li>
+<li>Grid</li>
+<li>Bootstrap 5</li>
+<li>Javascript ES6</li>
+<li>DOM Manipulation</li>
+<li>jQuery</li>
+<li>Bash Command Line</li>
+<li>Git, GitHub and Version Control</li>
+<li>Backend Web Development</li>
+<li>Node.js</li>
+<li>NPM</li>
+<li>Express.js</li>
+<li>EJS</li>
+<li>REST</li>
+<li>APIs</li>
+<li>Databases</li>
+<li>SQL</li>
+<li>PostgreSQL</li>
+<li>Authentication</li>
+<li>Firebase</li>
+<li>React.js</li>
+<li>React Hooks</li>
+<li>Web Design</li>
+<li>Deployment with GitHub Pages</li>
+<li>Web3 Development on the Internet Computer</li>
+<li>Blockchain technology</li>
+<li>Token contract development</li>
+<li>NFT minting, buying and selling logic</li>
+</ul>
