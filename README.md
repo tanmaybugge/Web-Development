@@ -1,6 +1,9 @@
 # Web-Development
 
-Started the journey of Web-Development on 09/04/2024 .
+Started the journey of Web-Development on 09/04/2024.
+
+
+Paused for almost 3 months,Starting again 21/07/24.
 
 
 Learning from Udemy,
